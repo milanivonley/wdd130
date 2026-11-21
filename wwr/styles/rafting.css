@@ -101,7 +101,7 @@ section h2 {
     text-align: center;
     opacity: 0.9;
     background-color: var(--accent1-color);
-    color: white;
+    color: var(--accent2-color);
 }
 
 .hero article {
@@ -140,7 +140,7 @@ section h2 {
 
     margin: 15px;
 
-    background-color: white;
+    background-color: var(--accent2-color);
 
     border: 1px solid var(--primary-color);
 }
@@ -170,7 +170,7 @@ section h2 {
 
     padding: 20px;
 
-    background-color: white;
+    background-color: var(--accent2-color);
 
     border: 1px solid var(--primary-color);
 }
@@ -213,7 +213,7 @@ section h2 {
 
 footer {
     background-color: var(--primary-color);
-    color: white;
+    color: var(--accent2-color);
     display: flex;
     justify-content: space-between;
     align-items: center;
